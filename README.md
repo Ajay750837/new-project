@@ -1,4 +1,4 @@
 # new-project
-this is my first repository
+This is my first repository
 <br>
 Add then commit
